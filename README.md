@@ -1,6 +1,6 @@
 ### **Привет, я Даша!**
 
-### Мои Сертификаты 
+### Сертификаты 
 
 - [GIT](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20git.pdf)
 
@@ -10,8 +10,7 @@
 
 - [Java](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20java.pdf)
 
- ![](./photo_2023-01-11_20-22-14.jpg)
-
+### Портфолио
 
 [Учебный проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): приложение с функциями социальной сети (включая аутентификацию и push-уведомления)
 
