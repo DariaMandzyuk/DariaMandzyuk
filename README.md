@@ -6,7 +6,7 @@
 
 - [Разработка приложений на Kotlin](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20kotlin%20app.pdf)
 
-- [Программирование на Kotlin под андроид](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20kotlin%20app.pdf)
+- [Программирование на Kotlin под Android](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20android%20app.pdf)
 
 - [Java](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20java.pdf)
 
