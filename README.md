@@ -2,7 +2,7 @@
 
 ### Мои Сертификаты 
 
-- [GIT]()
+- [GIT](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20git.pdf)
 
 - [Kotlin]()
 
