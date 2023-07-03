@@ -10,7 +10,7 @@
 - 🌎Люблю путешествовать
 
 
-### <div align="center"> Сертификаты </div>  
+### Сертификаты 
 
 - [GIT](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20git.pdf)
 
@@ -21,7 +21,7 @@
 - [Java](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20java.pdf)
 
 
-### <div align="center"> Портфолио </div>  
+### Портфолио 
 
 [Учебный проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): приложение с функциями социальной сети (включая аутентификацию и push-уведомления)
 
