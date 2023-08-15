@@ -1,4 +1,4 @@
-### <div align="center">Я Даша, андроид-разработчик 📱 I'm Dasha, Android Developer </div>
+### <div align="center">Я Даша, андроид-разработчик 📱 I'm Daria, Android Developer </div>
 
 
 - 🏔️ Живу в Грузии  /  I live in Georgia
