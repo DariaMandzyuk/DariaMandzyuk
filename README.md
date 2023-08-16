@@ -23,7 +23,7 @@
 
 ### Портфолио  /  Portfolio
 
-[Тестовое задание от компании Wildberries](https://github.com/DariaMandzyuk/TimeToTravel): мобильное приложение “Пора в путешествие” с двумя экранами  /  Mobile app “Time to travel” with two screens
+[Приложение "Пора в путешествие"](https://github.com/DariaMandzyuk/TimeToTravel): мобильное приложение “Пора в путешествие” с двумя экранами  /  Mobile app “Time to travel” with two screens
 
 [Учебный проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): приложение с функциями социальной сети, реализована стена с постами, CRUD операции для постов, подсчет лайков, переход по ссылке на просмотр видео(интенты)  /  app with social network functions, implemented a wall with posts, CRUD operations for posts, counting likes, intents
  
