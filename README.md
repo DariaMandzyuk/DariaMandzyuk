@@ -24,6 +24,8 @@
 ### Портфолио  /  Portfolio
 
 [Учебный проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): приложение с функциями социальной сети, реализована стена с постами, CRUD операции для постов, подсчет лайков, переход по ссылке на просмотр видео(интенты)  /  app with social network functions, implemented a wall with posts, CRUD operations for posts, counting likes, intents
+
+Приложение "Пора в путешествие": мобильное приложение “Пора в путешествие” с двумя экранами / Mobile app “Time to travel” with two screens
  
 <br/>  
 
