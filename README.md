@@ -23,7 +23,7 @@
 
 ### Портфолио  /  Portfolio
 
-[Пет-проект "Словарь сленга"] (https://github.com/DariaMandzyuk/Slang_Dictionary): приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design  /  App of 3 screens, custom theme set up using the library Material Design
+[Пет-проект "Словарь сленга"](https://github.com/DariaMandzyuk/Slang_Dictionary): приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design  /  App of 3 screens, custom theme set up using the library Material Design
 
 [Учебный проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): приложение с функциями социальной сети, реализована стена с постами, CRUD операции для постов, подсчет лайков, переход по ссылке на просмотр видео(интенты)  /  app with social network functions, implemented a wall with posts, CRUD operations for posts, counting likes, intents
 
