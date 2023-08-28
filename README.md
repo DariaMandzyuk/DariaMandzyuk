@@ -1,13 +1,13 @@
 ### <div align="center">Я Даша, андроид-разработчик 📱 I'm Daria, Android Developer </div>
 
 
-- 🏔️ Живу в Грузии  /  I live in Georgia
+- 🏔️ I live in Georgia  /  Живу в Грузии
   
 
-- ⛷️КМС по биатлону  /  CM in biathlon
+- ⛷️CM in biathlon  /  КМС по биатлону
   
 
-- 🌎Люблю путешествовать  /  I love to travel
+- 🌎I love to travel  /  Люблю путешествовать
 
 
 ### Сертификаты  /   Certificates
