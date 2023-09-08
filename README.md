@@ -34,7 +34,7 @@
 ### Контакты / Contacts :
 Dariacolorso@gmail.com
 
-TG - @di_colorso
+Telegram - @di_colorso
  
 <br/>  
 
