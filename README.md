@@ -27,7 +27,7 @@
 
 [Приложение "Пора в путешествие"](https://github.com/DariaMandzyuk/TimeToTravel): Mobile app “Time to travel” with two screens / мобильное приложение с двумя экранами
 
-[Пет-проект "Словарь сленга"](https://github.com/DariaMandzyuk/Slang_Dictionary): App of 3 screens, custom theme set up using the library Material Design  /  приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design
+[Пет-проект "Slang Dictionary"](https://github.com/DariaMandzyuk/Slang_Dictionary): App of 3 screens, custom theme set up using the library Material Design  /  приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design
 
 
 
