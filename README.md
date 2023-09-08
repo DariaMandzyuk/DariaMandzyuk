@@ -29,7 +29,9 @@
 
 [Пет-проект "Словарь сленга"](https://github.com/DariaMandzyuk/Slang_Dictionary): App of 3 screens, custom theme set up using the library Material Design  /  приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design
 
-Контакты Contacts :
+
+
+Контакты / Contacts :
 Dariacolorso@gmail.com
 TG - @di_colorso
  
