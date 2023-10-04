@@ -25,8 +25,6 @@
 
 [Проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): app with social network functions, implemented a wall with posts, CRUD operations for posts, counting likes, intents, configured client-server interaction  /  приложение с функциями социальной сети, реализована стена с постами, CRUD операции для постов, подсчет лайков, переход по ссылке на просмотр видео(интенты), настроено клиент серверное взаимодействие
 
-[Приложение "Пора в путешествие"](https://github.com/DariaMandzyuk/TimeToTravel): Mobile app “Time to travel” with two screens / мобильное приложение с двумя экранами
-
 [Пет-проект "Slang Dictionary"](https://github.com/DariaMandzyuk/Slang_Dictionary): App of 3 screens, custom theme set up using the library Material Design  /  приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design
 
 
