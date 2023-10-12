@@ -28,7 +28,6 @@
 [Пет-проект "Slang Dictionary"](https://github.com/DariaMandzyuk/Slang_Dictionary): App of 3 screens, custom theme set up using the library Material Design  /  приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design
 
 [Командный проект "Regions"](https://github.com/amk2916/Regions) : App for searching a region by code on a car / приложение для поиска региона по коду на машине. 
-
 Stack - Compose, Dagger2, Cicerone, RxJava, Jira.
 
 
