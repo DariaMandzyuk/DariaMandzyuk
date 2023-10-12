@@ -32,6 +32,8 @@ Stack - Compose, Dagger2, Cicerone, RxJava, Jira.
 
 [Тестовое задание для компании Wildberries](https://github.com/DariaMandzyuk/TimeToTravel) : “Time to Travel” application with two screens / приложение “Пора в путешествие” с двумя экранами
 
+[Моя практика написания алгоритмов на Котлин](https://github.com/DariaMandzyuk/Algorithms) : выполнение практических заданий с LeetCode
+
 
 
 ### Контакты / Contacts :
