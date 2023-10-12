@@ -30,6 +30,8 @@
 [Командный проект "Regions"](https://github.com/amk2916/Regions) : App for searching a region by code on a car / приложение для поиска региона по коду на машине. 
 Stack - Compose, Dagger2, Cicerone, RxJava, Jira.
 
+[Тестовое задание для компании Wildberries](https://github.com/DariaMandzyuk/TimeToTravel) : “Time to Travel” application with two screens / приложение “Пора в путешествие” с двумя экранами
+
 
 
 ### Контакты / Contacts :
