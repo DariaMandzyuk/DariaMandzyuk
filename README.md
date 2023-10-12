@@ -24,15 +24,18 @@
 ### Портфолио  /  Portfolio
 
 [Проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): App with social network functions, implemented a wall with posts, CRUD operations for posts, counting likes, intents, configured client-server interaction  /  приложение с функциями социальной сети, реализована стена с постами, CRUD операции для постов, подсчет лайков, переход по ссылке на просмотр видео(интенты), настроено клиент серверное взаимодействие.
+
 **TechStack** - XML, OkHttp, MVVM, Coroutines, Navigation Components, CRUD operations, intents.
 
 [Пет-проект "Slang Dictionary"](https://github.com/DariaMandzyuk/Slang_Dictionary): App of 3 screens, custom theme set up using the library Material Design  /  приложение из 3х окон, настроена кастомная тема с использованием библиотеки Material Design.
+
 **TechStack** - XML, Hilt, Retrofit, Single Activity, MVVM, Coroutines.
 
 [Командный проект "Regions"](https://github.com/amk2916/Regions) : App for searching a region by code on a car / приложение для поиска региона по коду на машине. 
 **TechStack** - Compose, Dagger2, Cicerone, RxJava, Jira.
 
 [Тестовое задание для компании Wildberries](https://github.com/DariaMandzyuk/TimeToTravel) : “Time to Travel” application with two screens / приложение “Пора в путешествие” с двумя экранами.
+
 **TechStack** - XML, Hilt, OkHttp, MVVM, Coroutines, Navigation Components.
 
 [Моя практика написания алгоритмов на Котлин](https://github.com/DariaMandzyuk/Algorithms) : выполнение практических заданий с LeetCode
