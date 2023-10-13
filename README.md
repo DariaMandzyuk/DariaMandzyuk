@@ -30,8 +30,6 @@
 [Командный проект "Regions"](https://github.com/amk2916/Regions) : App for searching a region by code on a car / приложение для поиска региона по коду на машине. 
 **TechStack** - Compose, Dagger2, Cicerone, RxJava, Jira.
 
-[Тестовое задание для компании Wildberries](https://github.com/DariaMandzyuk/TimeToTravel) : “Time to Travel” application with two screens / приложение “Пора в путешествие” с двумя экранами. <br/>**TechStack** - XML, Hilt, OkHttp, MVVM, Coroutines, Navigation Components.
-
 [Моя практика написания алгоритмов на Котлин](https://github.com/DariaMandzyuk/Algorithms) : выполнение практических заданий с LeetCode
 
 
