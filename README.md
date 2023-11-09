@@ -37,7 +37,7 @@
 ### Контакты / Contacts :
 Dariacolorso@gmail.com
 
-Telegram - @di_colorso
+Telegram - (https://t.me/mandarin_may22)
  
 <br/>  
 
