@@ -10,17 +10,6 @@
 - 🌎I love to travel  /  Люблю путешествовать
 
 
-### Сертификаты  /   Certificates
-
-- [GIT](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20git.pdf)
-
-- [Разработка приложений на Kotlin](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20kotlin%20app.pdf)  /  Kotlin Application Development 
-
-- [Программирование на Kotlin под Android](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20android%20app.pdf)  /   Kotlin Programming for Android
-
-- [Java](https://github.com/DariaMandzyuk/DariaMandzyuk/blob/main/certificate%20java.pdf)
-
-
 ### Портфолио  /  Portfolio
 
 [Проект «NMedia»](https://github.com/DariaMandzyuk/AndroidProject): App with social network functions, implemented a wall with posts, CRUD operations for posts, counting likes, intents, configured client-server interaction  /  приложение с функциями социальной сети, реализована стена с постами, CRUD операции для постов, подсчет лайков, переход по ссылке на просмотр видео(интенты), настроено клиент серверное взаимодействие. <br/>**TechStack** - XML, OkHttp, MVVM, Coroutines, Navigation Components, CRUD operations, intents.
