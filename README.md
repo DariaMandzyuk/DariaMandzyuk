@@ -4,9 +4,6 @@
 - 🏔️ I live in Georgia  /  Живу в Грузии
   
 
-- ⛷️CM in biathlon  /  КМС по биатлону
-  
-
 - 🌎I love to travel  /  Люблю путешествовать
 
 
