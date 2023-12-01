@@ -23,7 +23,7 @@
 ### Контакты / Contacts :
 Dariacolorso@gmail.com
 
-Telegram - ([https://t.me/mandarin_may22](https://t.me/Daria_mobile))
+Telegram - ([(https://t.me/Daria_mobile)](https://t.me/Daria_mobile))
  
 <br/>  
 
