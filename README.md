@@ -4,7 +4,7 @@
 - 🏔️ I live in Georgia  
   
 
-- 🌎I love to travel  
+- 🌎 I love to travel  
 
 ### Контакты / Contacts :
 Dariacolorso@gmail.com
