@@ -1,10 +1,10 @@
-### <div align="center">Я Даша, андроид-разработчик 📱 I'm Daria, Android Developer </div>
+### <div align="center">📱 I'm Daria, Android Developer </div>
 
 
-- 🏔️ I live in Georgia  /  Живу в Грузии
+- 🏔️ I live in Georgia  
   
 
-- 🌎I love to travel  /  Люблю путешествовать
+- 🌎I love to travel  
 
 ### Контакты / Contacts :
 Dariacolorso@gmail.com
