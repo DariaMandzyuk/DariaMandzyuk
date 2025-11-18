@@ -1,7 +1,7 @@
 ### <div align="center">📱 I'm Daria, Android Developer </div>
 
 
-- 🏔️ I live in Georgia  
+- 🏔️ I live in Montenegro 
   
 
 - 🌎 I love to travel  
